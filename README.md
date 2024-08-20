@@ -17,12 +17,8 @@ I am a Commerce and Computer Applications graduate with a year of experience as 
 ### 1. Open Source SIEM Implementation
 - **Description**: Deployed and configured an open-source Wazuh SIEM solution using Ubuntu to monitor and analyze network traffic.
 - **Technologies Used**: Wazuh, OpenSearch, Filebeat, VirtualBox(Ubuntu 22.04)
-- **Link**: [Open Source SIEM Implementation](https://github.com/username/opensearch-siem)
+- **Link**: 
 
-### 2. Penetration Testing Toolkit
-- **Description**: Developed a custom toolkit for automated penetration testing tasks, including vulnerability scanning and exploitation.
-- **Technologies Used**: Python, Nmap, Metasploit
-- **Link**: [Penetration Testing Toolkit](https://github.com/username/pen-test-toolkit)
 
 ## Skills
 - **Network Security**: Firewall configuration, IDS/IPS management, VPN setup
@@ -34,9 +30,8 @@ I am a Commerce and Computer Applications graduate with a year of experience as 
 - [Incident Response Plan for SMBs](https://medium.com/@username/incident-response-plan)
 
 ## Contact Information
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/username/)
-- **GitHub**: [Your GitHub Profile](https://github.com/username)
+- **Email**: Wafeeq.dxb@gmail.com
+- **LinkedIn**: www.linkedin.com/in/wafeeq-fareed-1135a01b0
 
 <!---
 Wafeeq-Fareed/Wafeeq-Fareed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
