@@ -10,7 +10,7 @@ Welcome to my portfolio, The following stack consists index of my milestones wit
 ## About Me
 I am a Commerce and Computer Applications graduate with a year of experience as an Operations Associate in retail, now transitioning into cybersecurity. With a particular focus on <b>Purple Teaming</b>, I am continually expanding my digital skills and security knowledge, dedicated to bridging the gap between offensive and defensive security strategies.
 ## Certifications
-- CompTIA Security+ (CODE:K45N6L2ZMEQ41TC2 - www.verify.comptia.org)
+- CompTIA Security+ (CODE:K45N6L2ZMEQ41TC2 - [www.verify.comptia.org](https://www.certmetrics.com/comptia/public/verification.aspx/))
 
 ## Projects
 
