@@ -19,7 +19,7 @@ This project involves deploying and configuring an ELK (Elasticsearch, Logstash,
 ## Deployment Steps
 
 ### 1. Set Up Ubuntu Virtual Machine
-- Install Ubuntu 22.04 LTS on VirtualBox using ISO file from https://releases.ubuntu.com/22.04/?_gl=1*31l1ob*_gcl_au*MTg3NTc1MjcuMTcyNDEzNzA0Nw..&_ga=2.135338929.1635614044.1724137043-1911747749.1724137043.
+- Install Ubuntu 22.04 LTS on VirtualBox using ISO file from [www.releases.ubuntu.com](https://releases.ubuntu.com/22.04/?_gl=1*31l1ob*_gcl_au*MTg3NTc1MjcuMTcyNDEzNzA0Nw..&_ga=2.135338929.1635614044.1724137043-1911747749.1724137043).
 - Configure network settings to enable monitoring.
 
 ### 2. Install ELK Stack
