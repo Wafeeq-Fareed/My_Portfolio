@@ -14,10 +14,10 @@ I am a Commerce and Computer Applications graduate with a year of experience as 
 
 ## Projects
 
-### 1. Open Source SIEM Implementation
+### 1. SIEM DEPLOYMENT
 - **Description**: Deployed and configured an ELK SIEM solution, utilizing Kibana to monitor and analyze network traffic from a virtual Ubuntu agent.
 - **Technologies Used**: ElasticSearch, Logstash, Kibana, VirtualBox(Ubuntu 22.04)
-- **Link**: https://github.com/Wafeeq-Fareed/Wafeeq-Fareed/blob/b47db64fd3d27bf244a67284ec532b2e171c59f6/SIEM%20DEPLOYMENT.md
+- **Link**: [SIEM DEPLOYMENT](https://github.com/Wafeeq-Fareed/Wafeeq-Fareed/blob/b47db64fd3d27bf244a67284ec532b2e171c59f6/SIEM%20DEPLOYMENT.md)
 
 
 ## Skills
