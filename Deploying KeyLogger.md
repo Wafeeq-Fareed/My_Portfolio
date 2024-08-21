@@ -1,6 +1,18 @@
 # Creating and Deploying a Keylogger using Python
 
-## Introduction
+## Project Overview
+
+The goal of this project is to develop a simple keylogging application that records keystrokes made on a keyboard and logs them into a text file. This can be useful for various purposes, such as monitoring input for usability studies or debugging.
+
+### Functionality:
+- Captures keystrokes made by the user.
+- Logs the pressed keys into a file named log.txt.
+- Handles special keys like space, Enter, Alt, Tab, and Backspace with specific representations.
+### Key Features:
+- Logs each keypress event.
+- Differentiates between regular and special keys.
+- Provides a clean and readable format for special key events.
+- Continuously runs in the background to capture keystrokes.
 
 ## OBJECTIVES
 - Importing Required Module
