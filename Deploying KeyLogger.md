@@ -15,7 +15,7 @@ The goal of this project is to develop a simple keylogging application that reco
 - Provides a clean and readable format for special key events.
 - Continuously runs in the background to capture keystrokes.
 
-## OBJECTIVES
+## Objectives
 - Importing Required Module
 - Defining 'log-keystroke' Function
 - Handling Special Keys
@@ -42,6 +42,7 @@ Features:
 open function to create or append to log.txt.
 write method to log keystrokes into the file.
 
+## Deployment Steps
 ### 1. Importing Required Modules
     
     from pynput.keyboard import Listener
