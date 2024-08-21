@@ -8,6 +8,7 @@ The goal of this project is to develop a simple keylogging application that reco
 - Captures keystrokes made by the user.
 - Logs the pressed keys into a file named log.txt.
 - Handles special keys like space, Enter, Alt, Tab, and Backspace with specific representations.
+
 ### Key Features:
 - Logs each keypress event.
 - Differentiates between regular and special keys.
@@ -20,7 +21,26 @@ The goal of this project is to develop a simple keylogging application that reco
 - Handling Special Keys
 - Logging The Key Strokes
 - Starting Key Listener
-- Summary
+
+## Technologies Used
+
+#### Python:
+Role: The programming language used to write the keylogging application.
+Features:
+High-level and easy to read.
+Extensive libraries and modules for various tasks.
+
+##### pynput Library:
+Role: Provides functionality to monitor and control input devices like keyboards.
+Features:
+Listener class to detect and respond to keyboard events.
+Handles special keys and their events.
+
+#### File I/O Operations:
+Role: Used to write the captured keystrokes to a text file.
+Features:
+open function to create or append to log.txt.
+write method to log keystrokes into the file.
 
 ### 1. Importing Required Modules
     
