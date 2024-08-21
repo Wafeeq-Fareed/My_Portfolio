@@ -1,5 +1,5 @@
 # My Portfolio #
-Welcome to my portfolio, The following stack consists index of my milestones within the <b>cybersecurity</b> passion.
+Welcome to my portfolio, The following stack consists index of my milestones in <b>cybersecurity</b>.
 ## Table of Contents
 - [About Me](#about-me)
 - [Certifications](#certifications)
