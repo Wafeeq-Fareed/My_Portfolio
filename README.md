@@ -14,16 +14,19 @@ I am a Commerce and Computer Applications graduate with a year of experience as 
 
 ## Projects
 
-### 1. SIEM DEPLOYMENT USING ELK STACK
+### 1. SIEM Deployment using ELK Stack
 - **Description**: Deployed and configured an ELK SIEM solution, utilizing Kibana to monitor and analyze network traffic from a virtual Ubuntu agent.
 - **Technologies Used**: ElasticSearch, Logstash, Kibana, VirtualBox(Ubuntu 22.04)
 - **Link**: [SIEM DEPLOYMENT USING ELK STACK](https://github.com/Wafeeq-Fareed/Wafeeq-Fareed/blob/b47db64fd3d27bf244a67284ec532b2e171c59f6/SIEM%20DEPLOYMENT.md)
 
+### 2. Deploying Keylogger
+-**Description**: Scripted and deployed a keylogger using python 
+
 
 ## Skills
-- **Network Security**: Firewall configuration, IDS/IPS management, Cloud Implementation, Group Policies
-- **Penetration Testing**: Vulnerability scanning, exploit development, social engineering
-- **Tools**: ELK, Metasploit, Nmap, Burp Suite,
+- **Network Security**: Firewall configuration, IDS/IPS management, Cloud Implementation, Group Policies, Active Directory
+- **Penetration Testing**: Social engineering, 
+- **Tools**: ELK, Metasploit, Nmap, Burp Suite, Cisco Packet Tracer
 
 ## Blog/Write-Ups
 - [Security Best Practices for Web Applications](https://medium.com/@username/security-best-practices)
