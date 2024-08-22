@@ -20,7 +20,7 @@ I am a Commerce and Computer Applications graduate with a year of experience as 
 - **Link**: [SIEM Deployement Using ELK Stack](https://github.com/Wafeeq-Fareed/Wafeeq-Fareed/blob/b47db64fd3d27bf244a67284ec532b2e171c59f6/SIEM%20DEPLOYMENT.md)
 
 ### 2. Deploying Keylogger
--**Description**: Scripted and deployed a keylogger using python 
+-**Description**: Scripted and deployed a keylogger using python
 -**Technologies Used**: Python, Window's CLI
 -**Link**: [Deploying Keylogger](https://github.com/Wafeeq-Fareed/Wafeeq-Fareed/blob/main/Deploying%20KeyLogger.md)
 
