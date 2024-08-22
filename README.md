@@ -26,7 +26,7 @@ I am a Commerce and Computer Applications graduate with a year of experience as 
 
 ## Skills
 - **Network Security**: Firewall configuration, IDS/IPS management, Cloud Implementation, Group Policies, Active Directory
-- **Penetration Testing**: Social engineering, 
+- **Penetration Testing**: Social engineering, Malware creation 
 - **Tools**: ELK, Metasploit, Nmap, Burp Suite, Cisco Packet Tracer
 
 ## Blog/Write-Ups
