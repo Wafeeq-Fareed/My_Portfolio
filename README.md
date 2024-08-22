@@ -22,7 +22,7 @@ I am a Commerce and Computer Applications graduate with a year of experience as 
 ### 2. Deploying Keylogger
 -**Description**: Scripted and deployed a keylogger using python 
 -**Technologies Used**: Python, Window's CLI
--**Link**:[Deploying Keylogger]()
+-**Link**:[Deploying Keylogger](https://github.com/Wafeeq-Fareed/Wafeeq-Fareed/blob/main/Deploying%20KeyLogger.md)
 
 ## Skills
 - **Network Security**: Firewall configuration, IDS/IPS management, Cloud Implementation, Group Policies, Active Directory
