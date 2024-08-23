@@ -27,7 +27,7 @@ I am a Commerce and Computer Applications graduate with a year of experience as 
 ### JP Morgan and Chase Job Simulation
 - **Description**: Ran a series of three different projects using python and it's libraries to classify email as spam or ham, check run analytics on a csv file and process and ran analsys on mobile transaction and deriving insights on fraud transaction.
 - **Technologies Used**: Python, Pandas, Matsplotlib, Scilearn Kit
-- **Link**: [JP Morgan and Chase Job Simulation]
+- **Link**: [JP Morgan and Chase Job Simulation](https://github.com/Wafeeq-Fareed/Wafeeq-Fareed/blob/ae75aa5fb8c26f13ea12a9288e5e088048682272/JP%20Morgan%20%26%20Chase%20Job%20Simulation.md)
 
 ## Skills
 - **Network Security**: Firewall configuration, IDS/IPS management, Cloud Implementation, Group Policies, Active Directory
