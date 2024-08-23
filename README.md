@@ -34,10 +34,10 @@ I am a Commerce and Computer Applications graduate with a year of experience as 
 - **Penetration Testing**: Social engineering, Malware creation 
 - **Tools**: ELK, Metasploit, Nmap, Burp Suite, Cisco Packet Tracer
 
-## Blog/Write-Ups
+<!--## Blog/Write-Ups
 - [Security Best Practices for Web Applications](https://medium.com/@username/security-best-practices)
 - [Incident Response Plan for SMBs](https://medium.com/@username/incident-response-plan)
-
+-->
 ## Contact Information
 - **Email**: Wafeeq.dxb@gmail.com
 - **LinkedIn**: www.linkedin.com/in/wafeeq-fareed-1135a01b0
