@@ -24,6 +24,11 @@ I am a Commerce and Computer Applications graduate with a year of experience as 
 - **Technologies Used**: Python, Window's CLI
 - **Link**: [Deploying Keylogger](https://github.com/Wafeeq-Fareed/Wafeeq-Fareed/blob/main/Deploying%20KeyLogger.md)
 
+### JP Morgan and Chase Job Simulation
+- **Description**: Ran a series of three different projects using python and it's libraries to classify email as spam or ham, check run analytics on a csv file and process and ran analsys on mobile transaction and deriving insights on fraud transaction.
+- **Technologies Used**: Python, Pandas, Matsplotlib, Scilearn Kit
+- **Link**: [JP Morgan and Chase Job Simulation]
+
 ## Skills
 - **Network Security**: Firewall configuration, IDS/IPS management, Cloud Implementation, Group Policies, Active Directory
 - **Penetration Testing**: Social engineering, Malware creation 
