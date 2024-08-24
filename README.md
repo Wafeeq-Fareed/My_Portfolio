@@ -39,8 +39,7 @@ I am a Commerce and Computer Applications graduate with a year of experience as 
 - [Incident Response Plan for SMBs](https://medium.com/@username/incident-response-plan)
 -->
 ## Contact Information
-- **Email**: Wafeeq.dxb@gmail.com
-- **LinkedIn**: www.linkedin.com/in/wafeeq-fareed-1135a01b0
+- **LinkedIn**: www.linkedin.com/in/wafeeq-fareed
 
 <!---
 Wafeeq-Fareed/Wafeeq-Fareed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
