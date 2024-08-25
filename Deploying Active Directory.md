@@ -149,6 +149,11 @@ To simulate a brute force attack on the Active Directory using Kali Linux and mo
 The brute force attack was successfully executed using Crowbar, and the corresponding security events were accurately captured and displayed in Splunk. This demonstrated the ability to detect and monitor brute force attacks in real-time using SIEM tools.
 
 
+## Gallery
+![Alt Text](https://github.com/Wafeeq-Fareed/My_Portfolio/blob/b5298df669d987494bc418b9f5ba0533859ffc37/Project_Overview.png)
+![Alt Text](https://github.com/Wafeeq-Fareed/My_Portfolio/blob/b5298df669d987494bc418b9f5ba0533859ffc37/virtual%20machines.png)
+![Alt Text](https://github.com/Wafeeq-Fareed/My_Portfolio/blob/14175224cc4dfbd85cdf2a6f76c3b5cf78962c6c/AD%20created.png)
+
 ## Project Summary
 
 This cybersecurity project involved a three-phase setup to enhance network security and simulate attack scenarios for monitoring and defense.
