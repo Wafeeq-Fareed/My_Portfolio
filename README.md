@@ -1,54 +1,83 @@
-# 👋 Wafeeq Fareed
+# Wafeeq Fareed
 
-MSc Cyber Security graduate specialising in penetration testing and adversary simulation, with hands-on experience across web, network, and Active Directory lab environments.
-
----
-
-## 🔍 Focus Areas
-- Penetration testing & offensive security fundamentals
-- Active Directory attack and detection simulations
-- SIEM deployment and detection engineering
-- Python and C-based security tooling
+MSc Cyber Security graduate with a practical focus on penetration testing, adversary simulation, and security monitoring.  
+Currently building hands-on experience through structured labs, research-driven projects, and continuous technical learning.
 
 ---
 
-## 🧪 Selected Projects
+## Focus Areas
 
-### 🔹 SIEM Deployment & Detection Lab (ELK Stack)
-Deployed and configured an ELK-based SIEM to collect and analyse telemetry from Linux endpoints in a virtualised lab environment.  
-**Focus:** log ingestion, detection logic, and visibility gaps.
-
-➡️ *Repository:* `siem-detection-lab`
-
----
-
-### 🔹 Adversary Technique Simulation (Defensive Research)
-Simulated user activity capture techniques in a controlled Windows lab to study attacker behaviour and defensive detection opportunities.  
-**Focus:** understanding attack surfaces, not misuse.
-
-➡️ *Repository:* `adversary-simulation-lab`
+- Penetration testing fundamentals (web, network, Active Directory)
+- Adversary behaviour and attack simulation in lab environments
+- SIEM deployment and detection analysis
+- Security tooling and automation using Python and C
 
 ---
 
-### 🔹 Log4Shell Exploitation Analysis (CVE-2021-44228)
-Analysed the Log4Shell vulnerability end-to-end, including exploitation mechanics, detection considerations, and remediation strategies.
+## Selected Work
 
-➡️ *Repository:* `log4shell-lab-analysis`
+### SIEM Deployment & Detection Lab (ELK Stack)
+Built a virtualised logging and monitoring environment to study endpoint telemetry and detection logic.
+
+**What I worked on**
+- Deployed Elasticsearch, Logstash, and Kibana in a Linux-based lab
+- Configured log ingestion from Ubuntu endpoints
+- Analysed authentication and system activity through Kibana dashboards
+- Focused on understanding visibility gaps and detection limitations
+
+Repository: `siem-detection-lab`
 
 ---
 
-## 🎓 Certifications
+### Log4Shell Vulnerability Analysis (CVE-2021-44228)
+End-to-end analysis of the Log4Shell vulnerability in a controlled Java lab environment.
+
+**What I worked on**
+- Reproduced JNDI injection leading to remote code execution
+- Studied attacker infrastructure requirements and exploit flow
+- Analysed mitigation strategies, patching, and configuration hardening
+- Documented findings in a structured, report-style format
+
+Repository: `log4shell-lab-analysis`
+
+---
+
+### Adversary Technique Simulation (Defensive Research)
+Research-oriented simulation of attacker techniques to understand detection and response opportunities.
+
+**What I worked on**
+- Simulated user activity capture techniques in an isolated Windows lab
+- Studied how such behaviour could be detected by endpoint controls
+- Focused on defensive insight rather than exploitation
+- Mapped behaviour to MITRE ATT&CK concepts
+
+Repository: `adversary-simulation-lab`
+
+---
+
+## Certifications
+
 - CompTIA Security+ (SY0-701)
 - Practical Junior Penetration Tester (PJPT) — In Progress
 
 ---
 
-## 🛠️ Tools & Technologies
-Kali Linux • Nmap • Burp Suite • Metasploit • Splunk • ELK Stack • Active Directory • Python • C
+## Tools & Technologies
+
+Kali Linux  
+Nmap, Burp Suite, Metasploit  
+Splunk, ELK Stack, Sysmon  
+Active Directory (ADDS)  
+Python, C  
+Linux (Ubuntu), Windows 10 / Server  
 
 ---
 
-## 🔗 Contact
-- LinkedIn: https://www.linkedin.com/in/wafeeq-fareed
+## Contact
 
-⚠️ **Disclaimer:** All projects were conducted in isolated lab environments for educational and ethical purposes.
+LinkedIn: https://www.linkedin.com/in/wafeeq-fareed  
+
+---
+
+**Disclaimer**  
+All work showcased here was conducted in isolated lab environments for educational and ethical purposes only.
