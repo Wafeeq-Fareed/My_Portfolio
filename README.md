@@ -1,43 +1,54 @@
-# My Portfolio #
-Welcome to my portfolio, The following stack consists index of my milestones in <b>cybersecurity</b>.
-## Table of Contents
-- [About Me](#about-me)
-- [Certifications](#certifications)
-- [Projects](#projects)
-- [Skills](#skills)
-- [Contact Information](#contact-information)
+# 👋 Wafeeq Fareed
 
-## About Me
-I am a Commerce and Computer Applications graduate with a year of experience as an Operations Associate in retail, now transitioning into cybersecurity. With a focus on <b>Purple Teaming</b>, I am continuously advancing my digital skills and security expertise, committed to bridging the gap between offensive and defensive strategies.
-## Certifications
-- CompTIA Security+ (CODE:K45N6L2ZMEQ41TC2 - [www.verify.comptia.org](https://www.certmetrics.com/comptia/public/verification.aspx/))
+MSc Cyber Security graduate specialising in penetration testing and adversary simulation, with hands-on experience across web, network, and Active Directory lab environments.
 
-## Projects
+---
 
-### 1. SIEM Deployment using ELK Stack
-- **Description**: Deployed and configured an ELK SIEM solution, utilizing Kibana to monitor and analyze network traffic from a virtual Ubuntu agent.
-- **Technologies Used**: ElasticSearch, Logstash, Kibana, VirtualBox(Ubuntu 22.04)
-- **Link**: [SIEM Deployement Using ELK Stack](https://github.com/Wafeeq-Fareed/Wafeeq-Fareed/blob/b47db64fd3d27bf244a67284ec532b2e171c59f6/SIEM%20DEPLOYMENT.md)
+## 🔍 Focus Areas
+- Penetration testing & offensive security fundamentals
+- Active Directory attack and detection simulations
+- SIEM deployment and detection engineering
+- Python and C-based security tooling
 
-### 2. Deploying Keylogger
-- **Description**: Scripted and deployed a keylogger using python
-- **Technologies Used**: Python, Window's CLI
-- **Link**: [Deploying Keylogger](https://github.com/Wafeeq-Fareed/Wafeeq-Fareed/blob/main/Deploying%20KeyLogger.md)
+---
 
+## 🧪 Selected Projects
 
-## Skills
-- **Network Security**: Firewall configuration, IDS/IPS management, Cloud Implementation, Group Policies, Active Directory
-- **Penetration Testing**: Social engineering, Malware creation 
-- **Tools**: ELK, Metasploit, Nmap, Burp Suite, Cisco Packet Tracer
+### 🔹 SIEM Deployment & Detection Lab (ELK Stack)
+Deployed and configured an ELK-based SIEM to collect and analyse telemetry from Linux endpoints in a virtualised lab environment.  
+**Focus:** log ingestion, detection logic, and visibility gaps.
 
-<!--## Blog/Write-Ups
-- [Security Best Practices for Web Applications](https://medium.com/@username/security-best-practices)
-- [Incident Response Plan for SMBs](https://medium.com/@username/incident-response-plan)
--->
-## Contact Information
-- **LinkedIn**: www.linkedin.com/in/wafeeq-fareed
+➡️ *Repository:* `siem-detection-lab`
 
-<!---
-Wafeeq-Fareed/Wafeeq-Fareed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🔹 Adversary Technique Simulation (Defensive Research)
+Simulated user activity capture techniques in a controlled Windows lab to study attacker behaviour and defensive detection opportunities.  
+**Focus:** understanding attack surfaces, not misuse.
+
+➡️ *Repository:* `adversary-simulation-lab`
+
+---
+
+### 🔹 Log4Shell Exploitation Analysis (CVE-2021-44228)
+Analysed the Log4Shell vulnerability end-to-end, including exploitation mechanics, detection considerations, and remediation strategies.
+
+➡️ *Repository:* `log4shell-lab-analysis`
+
+---
+
+## 🎓 Certifications
+- CompTIA Security+ (SY0-701)
+- Practical Junior Penetration Tester (PJPT) — In Progress
+
+---
+
+## 🛠️ Tools & Technologies
+Kali Linux • Nmap • Burp Suite • Metasploit • Splunk • ELK Stack • Active Directory • Python • C
+
+---
+
+## 🔗 Contact
+- LinkedIn: https://www.linkedin.com/in/wafeeq-fareed
+
+⚠️ **Disclaimer:** All projects were conducted in isolated lab environments for educational and ethical purposes.
